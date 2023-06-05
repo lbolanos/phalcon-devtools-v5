@@ -23,8 +23,6 @@
     },
     "require": {
         "php": ">=7.4",
-        "ext-pdo": "*",
-        "ext-phalcon": "^5.0.0",
         "psy/psysh": "~0.9",
         "nikic/php-parser": "^4.15.0",
         "phalcon/migrations": "^3.0",
