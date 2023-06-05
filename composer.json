@@ -21,13 +21,6 @@
         "source": "https://github.com/phalcon/phalcon-devtools",
         "forum": "https://forum.phalcon.io"
     },
-    "require": {
-        "php": ">=7.4",
-        "psy/psysh": "~0.9",
-        "nikic/php-parser": "^4.15.0",
-        "phalcon/migrations": "^3.0",
-        "vlucas/phpdotenv": "^5.0"
-    },
     "require-dev": {
         "humbug/box": "^4.0",
         "codeception/codeception": "^5.0",
